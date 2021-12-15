@@ -12,33 +12,3 @@ body {
   line-height: 1.5;
 }
 
-#search-box {
-  font: inherit;
-  padding: 8px;
-  max-width: 320px;
-  margin-bottom: 16px;
-}
-
-.contry-list__about{
-  display: flex;
-  align-items: baseline;
-}
-
-.contry-list__img{
-  width: 40px;
-  height: auto;
-  margin-right: 20px;
-}
-
-.contry-info__title{
-  font-size: 30px;
-}
-
-.contry-info__body{
-display: flex;
-}
-
-.contry-info__img{
-  width: 200px;
-  height: auto;
-}
